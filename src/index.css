@@ -32,7 +32,7 @@ main {
     flex-direction: column;
 }
 
-.card {
+section {
     display:flex;
     flex-direction: column;
     justify-content: center;
@@ -43,7 +43,7 @@ main {
     border-style: none none solid none;
 }
 
-.card p {
+section p {
     text-align: left;
 }
 
