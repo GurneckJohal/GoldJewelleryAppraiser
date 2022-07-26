@@ -18,7 +18,7 @@ function Main() {
   });
 
   useEffect(() => {
-    /*const API_KEY =
+    const API_KEY =
       "lv02xaevftmc581f5g40kt6k71aj8dwx8d5se8d6l10f6hzbxb04qe1f1ywk";
     const constructURL = (apiKey) => {
       let endpoint = "https://metals-api.com/api/timeseries";
@@ -73,7 +73,8 @@ function Main() {
         console.log(error);
       }
     };
-    getGoldPrice();*/
+    getGoldPrice();
+    /*
     //saved data from api call (remove code when actually calling api)
     let goldHistory = [
       ["2021-06-16", 2264.4677012821435],
@@ -103,7 +104,7 @@ function Main() {
       };
     });
     setSpotPrice(goldHistory[goldHistory.length - 1][1].toFixed(2));
-    setSuccessfullCall(true);
+    setSuccessfullCall(true);*/
   }, []);
 
   return (
