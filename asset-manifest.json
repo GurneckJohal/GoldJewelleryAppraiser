@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/GoldJewelleryAppraiser/static/css/main.08eb38c5.css",
+    "main.js": "/GoldJewelleryAppraiser/static/js/main.a62bce37.js",
+    "index.html": "/GoldJewelleryAppraiser/index.html",
+    "main.08eb38c5.css.map": "/GoldJewelleryAppraiser/static/css/main.08eb38c5.css.map",
+    "main.a62bce37.js.map": "/GoldJewelleryAppraiser/static/js/main.a62bce37.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08eb38c5.css",
+    "static/js/main.a62bce37.js"
+  ]
+}
